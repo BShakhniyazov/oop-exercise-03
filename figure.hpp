@@ -1,4 +1,3 @@
-#include <vector>
 class coordinate
 {
     public:
