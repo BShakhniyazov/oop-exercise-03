@@ -17,7 +17,6 @@ void inputPoints(std::vector<coordinate> &points, int countPoints);
 
 int main()
 {
-    std::cout << sin(30 * M_PI / 180) << std::endl;
     std::vector<figure*> figures; //массив указателей на фигуры
     std::vector<coordinate> points; //вспомогательный массив
     bool again = true;
